@@ -4,6 +4,7 @@ This is my first swift ui app
 
 You can find here:
   - Create chat UI with chatbot API, using alamofire like http package
+  - Creation of sliding up panel similar in flutter
   - Integrations and interactions with map with animations
   - Use of primary types of Stack like VStack, HStack, LazyStack
   - Archithecture as childs, views, files like utils
